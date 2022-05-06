@@ -1,0 +1,22 @@
+div .main_component {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-image: url("/assets/first_room.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.main_component {
+  height: 80vh;
+}
+.second_component {
+  background-color: lightblue;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+#valami {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
